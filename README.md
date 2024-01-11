@@ -19,7 +19,7 @@ This is my personal portfolio showcasing my projects, skills, and background. Th
 
 ## Getting Started
 
-To view the portfolio, simply open the [portfolio website](#your-portfolio-url) in your web browser.
+To view the portfolio, simply open the [portfolio website](https://abdirahman-ai.github.io/) in your web browser.
 
 ## License
 
