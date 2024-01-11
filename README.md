@@ -1,17 +1,27 @@
-## Portfolio Website Template
+# Portfolio
 
-This is a simple responsive portfolio website template that I made for Repl.it template jam. You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. While working with JS i got many errors, but thanks to [Kakashi](https://repl.it/@apoorvsingal) for fixing them. Also thanks to all people on discord who provided feedback and suggestions, especially Panda and Kub! :D
+This is my personal portfolio showcasing my projects, skills, and background. The portfolio is created using HTML5, CSS3, jQuery, and JavaScript. Feel free to explore!
 
-> Mistakes are proof that we are trying!
+## Technologies Used
 
-I learned so much while making this template, if you use it, please let me know. I would love to see how amazing people can make it! I hope you'll like it!
++ **HTML5:** Used for structuring the web content.
++ **CSS3:** Employed for styling and visual presentation.
++ **jQuery:** Implemented for header animation effects.
++ **JavaScript:** Utilized for creating a responsive hamburger menu for mobile devices.
++ **Font Awesome:** Integrated for a collection of icons.
++ **Unsplash:** Images are sourced from Unsplash.
 
-## I have used:
-+ **HTML5** for markup
-+ Pure **CSS3** for styling 
-+ Bit of **Jquery** to make header animation effects work
-+ Bit of **JavaScript** to make a hamburger menu to work on mobile devices 
-+ **Font Awesome** for Icons 
-+ **Unsplash** for Images 
+## Features
 
-You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D 
+- **Responsive Design:** The portfolio is designed to be fully responsive, ensuring a seamless experience across various devices.
+- **Header Animation:** jQuery is used to create engaging animation effects in the header section.
+- **Mobile-Friendly Navigation:** The hamburger menu is implemented using JavaScript to provide a user-friendly navigation experience on mobile devices.
+
+## Getting Started
+
+To view the portfolio, simply open the [portfolio website](#your-portfolio-url) in your web browser.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
